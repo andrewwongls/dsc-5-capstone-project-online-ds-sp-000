@@ -40,7 +40,7 @@ This repository hosts of 4 different Jupyter Notebook Projects:
 
 **4. JB#4 Airbnb + Hypothesis Testing:** Focusing on running hypothesis testing on three most influential factors predicting high rating.
 
-http://localhost:8891/notebooks/JB%234%20Airbnb%20%2B%20Hypothesis%20Testing.ipynb
+![JB%204.JPG](https://raw.githubusercontent.com/andrewwongls/dsc-5-capstone-project-online-ds-sp-000/master/JB%204.JPG)
 
 ## The Complementary Slide Decks
 
