@@ -55,4 +55,4 @@ This repository also hosts 3 complementary slide decks:
 
 ## The Dataset
 
-All Airbnb reviews and listings datsets are sourced from the Inside Airbnb website, and was scraped on a few times in the month of September 2019.
+All Airbnb reviews and listings datsets are sourced from the Inside Airbnb website, and was scraped a few times in the month of September 2019.
