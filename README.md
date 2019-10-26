@@ -27,13 +27,20 @@ This jupyter notebook project attempts to experiment and focus on the behavioura
 This repository hosts of 4 different Jupyter Notebook Projects:
 
 **1. JB#1 Airbnb + Natural Language Processing:** Focusing on natural language processing using NLTK and VADER.
+
 ![JB%201.JPG](https://raw.githubusercontent.com/andrewwongls/dsc-5-capstone-project-online-ds-sp-000/master/JB%201.JPG)
 
 **2. JB#2 Airbnb + Predictive Modelling:** Focusing on predictive modelling using logistic regression, XG Boost, support vector machine (SVM), random forrest, and deep neural network (DNN)
 
+![JB%202.JPG](https://raw.githubusercontent.com/andrewwongls/dsc-5-capstone-project-online-ds-sp-000/master/JB%202.JPG)
+
 **3. JB#3 Airbnb + Location and People - Finding Love in the City:** Focusing on spatial related data based on longitude, latitude, and customer reviews that related to locations.
 
+![JB%203.JPG](https://raw.githubusercontent.com/andrewwongls/dsc-5-capstone-project-online-ds-sp-000/master/JB%203.JPG)
+
 **4. JB#4 Airbnb + Hypothesis Testing:** Focusing on running hypothesis testing on three most influential factors predicting high rating.
+
+http://localhost:8891/notebooks/JB%234%20Airbnb%20%2B%20Hypothesis%20Testing.ipynb
 
 ## The Complementary Slide Decks
 
