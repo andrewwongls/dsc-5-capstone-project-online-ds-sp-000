@@ -27,7 +27,7 @@ This jupyter notebook project attempts to experiment and focus on the behavioura
 This repository hosts of 4 different Jupyter Notebook Projects:
 
 **1. JB#1 Airbnb + Natural Language Processing:** Focusing on natural language processing using NLTK and VADER.
-https://raw.githubusercontent.com/andrewwongls/dsc-5-capstone-project-online-ds-sp-000/master/JB%201.JPG
+![JB%201.JPG](https://raw.githubusercontent.com/andrewwongls/dsc-5-capstone-project-online-ds-sp-000/master/JB%201.JPG)
 
 **2. JB#2 Airbnb + Predictive Modelling:** Focusing on predictive modelling using logistic regression, XG Boost, support vector machine (SVM), random forrest, and deep neural network (DNN)
 
